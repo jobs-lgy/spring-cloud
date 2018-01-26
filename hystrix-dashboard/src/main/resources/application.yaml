@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: hystrix-dashboard
+server:
+  port: 2001
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1111/eureka/
+management:
+  port: 8990
+turbine:
+  app-config: RIBBON-CONSUMER
+  combine-host-port: true

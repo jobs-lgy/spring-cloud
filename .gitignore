@@ -1,1 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
+/config-server/src/main/resources/application-prod.yaml
+target/
+out/
