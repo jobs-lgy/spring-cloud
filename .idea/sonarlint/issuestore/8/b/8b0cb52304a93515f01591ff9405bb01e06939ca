@@ -1,7 +1,0 @@
-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾–è÷8×¾Äæ’,
-hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ØÜçäüÿÿÿÿ8×¾Äæ’,
-]squid:S1126"AReplace this if-then-else statement by a single return statement.(¥ñäŸ8×¾Äæ’,
-_squid:UnusedPrivateMethod"0Remove this unused private "throwsError" method.(ÝÊ®ùÿÿÿÿ8×¾Äæ’,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(”õ¨âüÿÿÿÿ8×¾Äæ’,

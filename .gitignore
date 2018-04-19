@@ -2,3 +2,4 @@
 /config-server/src/main/resources/application-prod.yaml
 target/
 out/
+.idea/
